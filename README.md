@@ -1,24 +1,9 @@
-<h1 align="center">
-  <a href="https://github.com/ordinatous/Abitbol-Awesome-CV" title="Documentation Abitbol-Awesome-CV">
-    <img alt="Abitbol-Awesome-CV" src="https://github.com/ordinatous/Abitbol-Awesome-CV/raw/master/profil-05.jpg" width="200px" height="200px" />
-  </a>
-  <br />
-  Abitbol Awesome CV
-</h1>
+# Abitbol-Awesome-CV
 
-<p align="center">
-  Model de Curriculum Vitae et de Lettre de Motivations en LaTeX
-</p>
+---
 
 <div align="center">
 
-  <a="https://badgen.net/badge/Langue/FR/blue"/>
-  <a href="https://www.latex-project.org/">
-    <img alt="Latex" src="https://img.shields.io/badge/Latex-OK-green.svg" />
-  </a>
-    <a href="https://badgen.net/badge/platforms/Linux,MacOS,Microsoft?=list1"/>
-    <a "https://badgen.net/badge/Licence/CC4.0/blue"/>
-    <a"https://img.shields.io/github/followers/ordinatous.svg?label=Follow"/>
   <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV.pdf">
     <img alt="Abitbol-Awesome-CV" src="https://img.shields.io/badge/Abitbol-awesome-CV-pdf-green.svg" />
   </a>

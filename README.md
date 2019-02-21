@@ -11,21 +11,14 @@
 </p>
 
 <div align="center">
-<a>
-  <img href="https://badgen.net/badge/Langue/FR/blue"/>
-</a>
+
+  <a="https://badgen.net/badge/Langue/FR/blue"/>
   <a href="https://www.latex-project.org/">
     <img alt="Latex" src="https://img.shields.io/badge/Latex-OK-green.svg" />
   </a>
-  <a>
-    <img href="https://badgen.net/badge/platforms/Linux,MacOS,Microsoft?=list1"/>
-  </a>
-  <a>
-    <img href="https://badgen.net/badge/Licence/CC4.0/blue"/>
-  </a>
-  <a>
-    <img alt="https://img.shields.io/github/followers/ordinatous.svg?label=Follow"/>
-  </a>
+    <a href="https://badgen.net/badge/platforms/Linux,MacOS,Microsoft?=list1"/>
+    <a "https://badgen.net/badge/Licence/CC4.0/blue"/>
+    <a"https://img.shields.io/github/followers/ordinatous.svg?label=Follow"/>
   <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV.pdf">
     <img alt="Abitbol-Awesome-CV" src="https://img.shields.io/badge/Abitbol-awesome-CV-pdf-green.svg" />
   </a>

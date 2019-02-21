@@ -4,10 +4,10 @@
 
 <div align="center">
 
-  <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV.pdf">
+  <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.pdf">
     <img alt="Abitbol-Awesome-CV" src="https://img.shields.io/badge/Abitbol-awesome-CV-pdf-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM.pdf">
+  <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.pdf">
     <img alt="Abitbol-Awesome-LM" src="https://img.shields.io/badge/Abitbol-Awesome-LM-green.svg" />
   </a>
 </div>
@@ -23,11 +23,11 @@
 
 #### Curicullum Vitae
 
-Visible ici: [PDF](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV.pdf)
+Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/blob/master/examples/Abitbol-Awesome-CV.pdf)
 
 | Avec photo | Sans photo |
 |:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-CV-01.pdf) |
+| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV-01.pdf) |
 
 #### Lettre de Motivation
 
@@ -35,7 +35,7 @@ Visible ici: [PDF](https://raw.githubusercontent.com/ordinatous/Awesome-CV/maste
 
 | Avec photo | Sans photo |
 |:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM-01.pdf) |
+| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM-01.pdf) |
 
 
 

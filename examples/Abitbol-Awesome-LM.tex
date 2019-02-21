@@ -1,0 +1,149 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Authors:
+% George Abitbol <george@abitbol.org>
+% Lars Richter <mail@ayeks.de>
+% 
+% Francisé et modifier par ordinatous
+% Ludovic Marchal <contact@ordinatous.com>
+%
+% Template license:
+% LICENCE CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS du document
+%-------------------------------------------------------------------------------
+% FORMAT du papier
+% Format A4 par défaut, utiliser 'letterpaper' pour le format US letter:
+\documentclass[11pt, a4paper]{awesome-cv}
+% LANGUE
+% Francisation du document , format de date, syntaxe et correcteur orthographique:
+\usepackage[french]{babel}
+% MARGES
+% Configurer les marges ici:
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+% FONTS
+% Indiquer l'emplacement des fonts ici:
+\fontdir[..fonts/]
+% COULEUR
+% Couleur pour les mise en avant:
+% Awesome Couleurs: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-red}
+% Décommenter pour choisir d'autres couleurs:
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Coleurs pour le texte:
+% Décommenter pour en choisir une:
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+% ACTIVER Highlights
+% Basculer la valeur à false pour suprimmer les mise en avant:
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	INFORMATIONS PERSONNELLE
+%	Commenter les entrées suivantes si elles ne sont pas nécessaires:
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\photo{../examples/profil_02}
+\name{George}{Abitbol}
+\position{Cosmonaute le plus Classe du Monde{\enskip\cdotp\enskip}Homme le plus Classe du Monde}
+\address{Kennedy Space Center, Cap Canaveral, USA}
+
+\mobile{(+82) 10-9030-1843}
+\email{george@abitbol.org}
+\homepage{www.abitbol.org}
+% RESEAUX SOCIAUX
+\github{abitbol}
+\linkedin{abitbol}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra informations}
+% CITATION
+\quote{« Attention ! ce flim n'est pas un flim sur le « cyclimse ». Merci de votre compréhension »}
+
+
+%-------------------------------------------------------------------------------
+%	INFO du courrier
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% INTERLOCUTEUR
+\recipient
+  {A l'attention des Ressources Humaines}
+  {Société ESN.\\1600 Somewhere\\Another town, CA 94043}
+% The date on the letter, default is the date of compilation
+\letterdate{Le \today}
+% TITRE
+\lettertitle{Acte de candidature}
+% INTRO
+\letteropening{Madame, Monsieur;}
+% OUTRO
+\letterclosing{Cordialement,}
+% Any enclosures with the letter
+\letterenclosure[Veillez trouver en pièce jointe]{Curriculum Vitae}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[L]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {Le \today}
+  {George. Abitbol~~~·~~~Acte de candidature}
+  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	CONTENU du courrier
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+\lettersection{A propos du film}
+À l'occasion de ses soixante-dix ans en 1993, la Warner délivre à Canal+ l'autorisation exceptionnelle d'utiliser les extraits de son catalogue (environ 3 000 titres). Le but officiel était de permettre de monter un petit film promotionnel, avec néanmoins quelques recommandations : ne pas toucher, entre autres, ni à Clint Eastwood ni à Stanley Kubrick7.
+
+Michel Hazanavicius et Dominique Mézerette, y voyant une occasion unique d'outrepasser les problèmes de copyright et de royalties habituels8, réussissent le tour de force de réaliser un long-métrage complet en s'adjoignant les services des authentiques comédiens de doublage de l'époque des personnages détournés : la voix de Raymond Loyer, l'acteur de doublage attitré de John Wayne, et celle de Roger Rudel, la voix familière et nasillarde de Kirk Douglas et Richard Widmark entre autres8. 
+
+\lettersection{Première diffusion}
+La première diffusion a lieu sur la chaîne Canal+ le 31 décembre 1993. Une seconde diffusion a lieu en 2004 sur la chaîne Festival (devenue depuis France 4). Le 11 avril 2009, le film est officiellement projeté sur grand écran au centre Georges-Pompidou lors du festival Hors Pistes en présence des deux auteurs2,3.
+
+En 2015, le film n'est toujours pas sorti en VHS ou en DVD. Il connaît néanmoins une nouvelle jeunesse grâce à une version numérisée qui circule sur Internet, faite en 2008-2009 dans les studios de la rue Cognacq-Jay à Paris, par des techniciens de production passionnés, à partir de la Betacam originale4. 
+
+\lettersection{Pourquoi moi?}
+Duis sit amet magna ante, at sodales diam. Aenean consectetur porta risus et sagittis. Ut interdum, enim varius pellentesque tincidunt, magna libero sodales tortor, ut fermentum nunc metus a ante. Vivamus odio leo, tincidunt eu luctus ut, sollicitudin sit amet metus. Nunc sed orci lectus. Ut sodales magna sed velit volutpat sit amet pulvinar diam venenatis.
+
+
+
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}

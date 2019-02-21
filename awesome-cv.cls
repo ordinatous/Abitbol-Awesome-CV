@@ -1,11 +1,12 @@
 %% Start of file `awesome-cv.cls'.
 % Awesome CV Class File
 %
+% Version originale
 % This class has been downloaded from:
 % https://github.com/posquit0/Awesome-CV
 %
 % Author:
-% Claud D. Park <posquit0.bj@gmail.com>
+% George Abitbol <george@abitbol.org>
 % http://www.posquit0.com
 %
 % Notes:
@@ -601,9 +602,9 @@
   \setlength{\extrarowheight}{0pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
     \ifempty{#2#3}
-      {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-      {\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
-      \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
+      {\entrypositionstyle{#2} & \entrydatestyle{#4} \\}
+      {\entrytitlestyle{#1} & \entrylocationstyle{#3} \\
+      \entrypositionstyle{#2} & \entrydatestyle{#4} \\}
     \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}}
   \end{tabular*}%
 }

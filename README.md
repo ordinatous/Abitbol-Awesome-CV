@@ -42,7 +42,7 @@ Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/master/
 
 | Avec photo | Sans photo |
 |:---:|:---:|
-| [![Cover Letter(Photo)](examples/Abitbol-Awesome-CV.png)](examples/Abitbol-Awesome-LM.pdf)  | [![Cover Letter(Sans Photo)](examples/Abitbol-Awesome-CV-01.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV-01.pdf) |
+| [![Cover Letter(Photo)](examples/Abitbol-Awesome-CV.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.pdf)  | [![Cover Letter(Sans Photo)](examples/Abitbol-Awesome-CV-01.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV-01.pdf) |
 
 #### Lettre de Motivation
 
@@ -50,7 +50,7 @@ Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/master/
 
 | Avec photo | Sans photo |
 |:---:|:---:|
-| [![Cover Letter(Photo)](examples/Abitbol-Awesome-LM.png)](examples/Abitbol-Awesome-LM.pdf)  | [![Cover Letter(Sans Photo)](examples/Abitbol-Awesome-LM-01.png)](examples/Abitbol-Awesome-LM.pdf) |
+| [![Cover Letter(Photo)](examples/Abitbol-Awesome-LM.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM-01.pdf)  | [![Cover Letter(Sans Photo)](examples/Abitbol-Awesome-LM-01.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.pdf) |
 
 
 

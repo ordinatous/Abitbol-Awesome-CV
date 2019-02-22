@@ -46,7 +46,7 @@ Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/master/
 
 #### Lettre de Motivation
 
-Visible ici: [PDF](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.pdf)
+Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.pdf)
 
 | Avec photo | Sans photo |
 |:---:|:---:|

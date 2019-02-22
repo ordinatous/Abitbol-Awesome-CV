@@ -38,7 +38,7 @@ Il est plutot facile a modifier et a se réapproprier. J'ai francisé le projet 
 
 #### Curicullum Vitae
 
-Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/blob/master/examples/Abitbol-Awesome-CV.pdf)
+Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.pdf)
 
 | Avec photo | Sans photo |
 |:---:|:---:|
@@ -46,7 +46,7 @@ Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/blob/ma
 
 #### Lettre de Motivation
 
-Visible ici: [PDF](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM.pdf)
+Visible ici: [PDF](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.pdf)
 
 | Avec photo | Sans photo |
 |:---:|:---:|

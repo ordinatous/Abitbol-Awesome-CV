@@ -1,16 +1,27 @@
 # Abitbol-Awesome-CV
 
 ---
+<h1 align="center">
+  <a href="https://github.com/ordinatous/Awesome-CV" title="AwesomeCV Documentation">
+    <img alt="AwesomeCV" src="profil_05.jpg" width="200px" height="200px" />
+  </a>
+  <br />
+  Awesome CV
+</h1>
+
 
 <div align="center">
-
-  <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.pdf">
-    <img alt="Abitbol-Awesome-CV" src="https://img.shields.io/badge/Abitbol-awesome-CV-pdf-green.svg" />
+  <img alt="Licence" src="https://img.shields.io/github/license/ordinatous/Abitbol-Awesome-CV.svg"/>
+  <img alt="Multiplatforme" src="https://img.shields.io/badge/Multiplateforme-Linux----MacOS----Microsoft-blue.svg"/>
+  <a href="examples/Abitbol-Awesome-CV.pdf">
+    <img alt="Abitbol-Awesome-CV" src="https://img.shields.io/badge/Voir-Abitbol--Awesome--CV-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.pdf">
-    <img alt="Abitbol-Awesome-LM" src="https://img.shields.io/badge/Abitbol-Awesome-LM-green.svg" />
+  <a href="examples/Abitbol-Awesome-LM.pdf">
+    <img alt="Abitbol-Awesome-LM" src="https://img.shields.io/badge/Voir-Abitbol--Awesome--LM-green.svg" />
   </a>
 </div>
+
+---
 
 <br />
 
@@ -27,7 +38,7 @@ Visible ici: [PDF](https://github.com/ordinatous/Abitbol-Awesome-CV/blob/blob/ma
 
 | Avec photo | Sans photo |
 |:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV-01.pdf) |
+| [![Cover Letter(Photo)](examples/Abitbol-Awesome-CV.png)](examples/Abitbol-Awesome-LM.pdf)  | [![Cover Letter(Sans Photo)](examples/Abitbol-Awesome-CV-01.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-CV-01.pdf) |
 
 #### Lettre de Motivation
 
@@ -35,7 +46,7 @@ Visible ici: [PDF](https://raw.githubusercontent.com/ordinatous/Awesome-CV/maste
 
 | Avec photo | Sans photo |
 |:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/blob/master/examples/Abitbol-Awesome-LM.png)](https://raw.githubusercontent.com/ordinatous/Awesome-CV/master/examples/Abitbol-Awesome-LM-01.pdf) |
+| [![Cover Letter(Traditional)](examples/Abitbol-Awesome-LM.png)](examples/Abitbol-Awesome-LM.pdf)  | [![Cover Letter(Awesome)](examples/Abitbol-Awesome-LM-01.png)](examples/Abitbol-Awesome-LM.pdf) |
 
 
 

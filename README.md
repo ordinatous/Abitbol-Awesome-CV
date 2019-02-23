@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <!--<img alt="Licence" src="https://img.shields.io/github/license/ordinatous/Abitbol-Awesome-CV.svg"/>-->
+  <img alt="Licence" src="https://img.shields.io/badge/Licence-MIT-blue.svg"/>
   <img alt="Multiplatforme" src="https://img.shields.io/badge/Multiplateforme-Linux----MacOS----Microsoft-blue.svg"/>
   <a href="examples/Abitbol-Awesome-CV.pdf">
     <img alt="Abitbol-Awesome-CV" src="https://img.shields.io/badge/Voir-Abitbol--Awesome--CV-green.svg" />
